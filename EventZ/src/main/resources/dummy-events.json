@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Spring Boot Workshop",
+    "description": "Hands-on workshop covering Spring Boot fundamentals and advanced features",
+    "startTime": "2025-06-20T09:00:00",
+    "endTime": "2025-06-20T17:00:00",
+    "location": "Tech Innovation Center",
+    "maxAttendees": 30
+  },
+  {
+    "name": "Jazz Night",
+    "description": "Evening of smooth jazz featuring local artists",
+    "startTime": "2025-06-25T19:30:00",
+    "endTime": "2025-06-25T23:00:00",
+    "location": "Blue Note Cafe",
+    "maxAttendees": 80
+  },
+  {
+    "name": "Startup Pitch Competition",
+    "description": "Entrepreneurs present their ideas to investors and judges",
+    "startTime": "2025-07-02T14:00:00",
+    "endTime": "2025-07-02T18:00:00",
+    "location": "Business Innovation Hub",
+    "maxAttendees": 150
+  },
+  {
+    "name": "Cooking Masterclass",
+    "description": "Learn to cook authentic Italian pasta from a professional chef",
+    "startTime": "2025-07-10T15:00:00",
+    "endTime": "2025-07-10T18:00:00",
+    "location": "Culinary Arts Studio",
+    "maxAttendees": 12
+  }
+]
