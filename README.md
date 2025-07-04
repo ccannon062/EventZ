@@ -39,7 +39,7 @@ A full-stack event management application built with React and Spring Boot that 
 - **JWT** - Token-based authentication
 - **H2 Database** - In-memory database (development)
 - **PostgreSQL** - Production database
-- **Swagger/OpenAPI** - API documentation
+- **Swagger/OpenAPI** - API documentation [WIP]
 
 ## 📋 Prerequisites
 
@@ -139,7 +139,7 @@ The application comes with pre-configured test users:
 - `GET /api/registrations/check` - Check registration status
 
 ### API Documentation
-Access the interactive API documentation at: `http://localhost:8080/swagger-ui/index.html`
+Access the interactive API documentation at: `http://localhost:8080/swagger-ui/index.html` [WIP]
 
 ## 🎯 Usage Guide
 
@@ -264,8 +264,6 @@ If you encounter any issues or have questions, please:
 
 - Spring Boot team for the excellent framework
 - React team for the powerful UI library
-- All contributors and testers
+- **THIS APP IS NOT FIT FOR PUBLIC USE, IT IS DISPLAY ONLY**
 
 ---
-
-**Made with ❤️ using React and Spring Boot**
