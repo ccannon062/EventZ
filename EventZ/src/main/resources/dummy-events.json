@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Spring Boot Workshop",
+    "description": "Hands-on workshop covering Spring Boot fundamentals and advanced features",
+    "startTime": "2025-07-15T09:00:00",
+    "endTime": "2025-07-15T17:00:00",
+    "location": "Tech Innovation Center",
+    "maxAttendees": 30
+  },
+  {
+    "name": "Jazz Night",
+    "description": "Evening of smooth jazz featuring local artists",
+    "startTime": "2025-07-20T19:30:00",
+    "endTime": "2025-07-20T23:00:00",
+    "location": "Blue Note Cafe",
+    "maxAttendees": 80
+  },
+  {
+    "name": "Startup Pitch Competition",
+    "description": "Entrepreneurs present their ideas to investors and judges",
+    "startTime": "2025-08-02T14:00:00",
+    "endTime": "2025-08-02T18:00:00",
+    "location": "Business Innovation Hub",
+    "maxAttendees": 150
+  },
+  {
+    "name": "Cooking Masterclass",
+    "description": "Learn to cook authentic Italian pasta from a professional chef",
+    "startTime": "2025-08-10T15:00:00",
+    "endTime": "2025-08-10T18:00:00",
+    "location": "Culinary Arts Studio",
+    "maxAttendees": 12
+  },
+  {
+    "name": "Photography Exhibition",
+    "description": "Showcasing the works of local photographers",
+    "startTime": "2025-08-15T10:00:00",
+    "endTime": "2025-08-15T17:00:00",
+    "location": "City Art Gallery",
+    "maxAttendees": 100
+  },
+  {
+    "name": "Tech Talk: AI in Healthcare",
+    "description": "Discussion on the impact of AI technologies in the healthcare sector",
+    "startTime": "2025-08-22T18:00:00",
+    "endTime": "2025-08-22T20:00:00",
+    "location": "Innovation Auditorium",
+    "maxAttendees": 50
+  },
+  {
+    "name": "Outdoor Yoga Retreat",
+    "description": "Relax and rejuvenate with a day of yoga in nature",
+    "startTime": "2025-09-05T08:00:00",
+    "endTime": "2025-09-05T16:00:00",
+    "location": "Green Valley Park",
+    "maxAttendees": 25
+  },
+  {
+    "name": "Book Launch: 'Tech for Good'",
+    "description": "Launch event for the new book on technology's role in social change",
+    "startTime": "2025-09-10T17:00:00",
+    "endTime": "2025-09-10T19:00:00",
+    "location": "City Library Auditorium",
+    "maxAttendees": 100
+  },
+  {
+    "name": "Film Screening: Indie Shorts",
+    "description": "Screening of award-winning short films from independent filmmakers",
+    "startTime": "2025-09-15T20:00:00",
+    "endTime": "2025-09-15T22:30:00",
+    "location": "Cineplex Downtown",
+    "maxAttendees": 200
+  },
+  {
+    "name": "Charity Gala Dinner",
+    "description": "Fundraising dinner to support local charities and community projects",
+    "startTime": "2025-09-25T18:30:00",
+    "endTime": "2025-09-25T23:00:00",
+    "location": "Grand Ballroom, City Hotel",
+    "maxAttendees": 300
+  }
+]
